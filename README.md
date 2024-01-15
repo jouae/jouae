@@ -15,6 +15,6 @@ where $\displaystyle {}_CD_t^{\alpha} u=\int_0^t \frac{(t-s)^{\alpha}}{\Gamma{(1
 # Others
 ## LeetCode Stats Card
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/jouae?theme=nord&font=ABeeZee" alt> <br>
+  <img src="https://leetcard.jacoblin.cool/jouae?theme=nord&font=Teko&ext=heatmap" alt> <br>
   <em>powered by JacobLinCool/LeetCode-Stats-Card</em>
 </p>
