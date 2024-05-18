@@ -10,14 +10,3 @@ where $\displaystyle {}_CD_t^{\alpha} u=\int_0^t \frac{(t-s)^{\alpha}}{\Gamma{(1
 
 ## An Ardiuno UNO Tutorial for Beginner
 [ardiuno_UNO_tutorial](https://github.com/jouae/ardiuno_UNO_tutorial) This is an example repo for teaching high school students how to use Arduino UNO and program some easy eaxmples. Written in Traditional Chinese.
-
-
-# Others
-## LeetCode Stats Card
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/jouae?theme=nord&font=Teko&ext=heatmap" alt> <br>
-  <em>
-    powered by
-    <a href="https://github.com/JacobLinCool/LeetCode-Stats-Card" target="_blank">JacobLinCool/LeetCode-Stats-Card</a>
-  </em>
-</p>
