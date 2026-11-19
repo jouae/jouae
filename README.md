@@ -1,6 +1,6 @@
 # Main Work
 ## MADO
-Jul 2024 - Present
+Jul 2024 - Oct 2024
 
 [MADO (Minimalistic Application Display Orchestrator)](https://github.com/sysprog21/mado) is an open-source library that brings advanced window system features to smaller devices.
 
